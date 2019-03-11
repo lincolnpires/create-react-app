@@ -1,0 +1,11 @@
+{
+  "name": "create-react-app",
+  "version": "0.0.1",
+  "description": "Create React App?",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
