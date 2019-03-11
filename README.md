@@ -1,5 +1,6 @@
 # create-react-app
-Do we need it?
+- Do we need it?
 
+Small test trying to create a minimal dev-env for using React.
 
-Small test trying to create a minimal dev-env
+If you want to understand the process just [read the history](https://github.com/lincolnpires/create-react-app/commits/master) :)
