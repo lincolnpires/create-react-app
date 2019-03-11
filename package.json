@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "description": "Create React App?",
   "scripts": {
-    "test": "jest"
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
